@@ -1,0 +1,24 @@
+# ========================================
+# Python standard ignores
+# ========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ========================================
+# Jupyter Notebook
+# ========================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ========================================
+# Sensitive Keys & Credentials
+# ========================================
+key.json
+*.key
+*.pem
+*.env
+secrets.json
+
